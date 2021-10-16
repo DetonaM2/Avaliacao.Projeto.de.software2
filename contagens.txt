@@ -1,0 +1,3 @@
+Unigrama mais frequente: de Total: 44
+Bigrama mais frequente: ['de', 'Nolan'] Total: 6
+Trigrama mais frequente: ['data', 'de', 'lançamento'] Total: 2
